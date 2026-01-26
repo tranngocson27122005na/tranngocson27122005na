@@ -33,9 +33,11 @@
 
 ---
 
-## 🛠 Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,microsoft.net,react,git,github,java,c,c++,c#,spring,spring boot,dotnet,linux,arduino" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,dotnet,c,cpp,cs,linux,arduino,git,github" />
 </p>
 
 ---
