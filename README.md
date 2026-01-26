@@ -29,6 +29,13 @@
   <a href="https://www.tiktok.com/@tns271205" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
+   <a href="https://www.instagram.com/tns.27122005/" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png"/>
+  </a>
+
+  <a href="https://www.tiktok.com/@tns271205" target="_blank">
+    <img src="https://img.icons8.com/color/48/tiktok.png"/>
+  </a>
   <a href="https://www.youtube.com/@tranngocson-sonw27125" target="_blank">
     <img src="https://img.icons8.com/color/48/youtube-play.png"/>
   </a>
