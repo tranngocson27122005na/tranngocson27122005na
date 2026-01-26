@@ -47,8 +47,7 @@
 
 ## 📊 GitHub Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sondev123&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sondev123&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/atranngocson27122005na&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
