@@ -47,11 +47,11 @@
 
 ## 📊 GitHub Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/atranngocson27122005na&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tranngocson27122005na&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranngocson27122005na&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
-
 
 ### Currently learning
 - Java Web (Servlet, JSP, EL and JSTL, Session)
