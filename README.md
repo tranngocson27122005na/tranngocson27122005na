@@ -37,10 +37,10 @@
 ---
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,bootstrap,react,java,sql,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,bootstrap,react,java,mysql,linux,arduino,git,github" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,dotnet,c,cpp,cs,linux,arduino,git,github" />
+  <img src="https://skillicons.dev/icons?i=mysql,java,spring,python,dotnet,c,cpp,cs,linux,arduino,git,github" />
 </p>
 
 
