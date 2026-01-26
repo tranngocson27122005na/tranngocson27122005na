@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm Trần Ngọc Sơn</h1>
+# <h1 align="center">Hi 👋, I'm Trần Ngọc Sơn From Nghe An - Viet Nam</h1>
 <h3 align="center">Software Engineering Student | FPT University Ha Noi VN</h3>
 
 <p align="center">
