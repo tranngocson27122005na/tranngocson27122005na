@@ -1,5 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Trần Ngọc Sơn</h1>
-<h3 align="center">Software Engineering Student | FPT University HANOI VN</h3>
+<h3 align="center">Software Engineering Student | FPT University Ha Noi VN</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍🎓 About Me
-- 🎓 Software Engineering student at **FPT University HA NOI**
+- 🎓 Software Engineering student at **FPT University Ha Noi**
 - 💻 Interested in **Web Development & Software Engineering**
 - 🌱 Currently learning **Java, Web, Data Structures**
 - 🎯 Career goal: **Intern / Fresher Software Developer**
@@ -17,7 +17,7 @@
 📫 **Email:** tranngocson27122005na@gmail.com
 
 
-📞**HotLine:** Trần Ngọc Sơn - Nghệ An **ZALO** 📞 0353265927
+📞**HotLine:** Trần Ngọc Sơn - Nghệ An **Zalo** 📞 0353265927
 
 ---
 
@@ -46,7 +46,7 @@
 
 ### Currently learning
 - Java Web (Servlet, JSP, EL and JSTL, Session)
-- Java Persistence API (JPA) - BCrypt
+- JPAPI (Java Persistence API) - BCrypt
 - Spring Boot
 - SQL Server
 - Git & GitHub
