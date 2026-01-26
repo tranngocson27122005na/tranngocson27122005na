@@ -43,6 +43,16 @@
   <img src="https://skillicons.dev/icons?i=mysql,java,spring,python,dotnet,c,cpp,cs,react,html,css,javascript,bootstrap,linux,arduino,git,github" />
 </p>
 
+---
+
+## 📊 GitHub Statistics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sondev123&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sondev123&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
 
 ### Currently learning
 - Java Web (Servlet, JSP, EL and JSTL, Session)
