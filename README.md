@@ -35,7 +35,7 @@
 
 ## 🛠 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=HTML,CSS,JS,BOOTSRTAP,JAVA,PYTHON,MICROSOFT.NET,REACT,GIT,GITHUB,JAVA,C,C++,C#,SPRING,DOTNET,LINUX,ARDUINO" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,Java,python,microsoft.net,react,git,github,jaca,c,c++,c#,spring,spring boot,dotnet,linux,arduino" />
 </p>
 
 ---
