@@ -15,6 +15,8 @@
 - 📍Ha Noi, Viet Nam
 
 📫 **Email:** tranngocson27122005na@gmail.com
+
+
 📞**HotLine:** Trần Ngọc Sơn - Nghệ An **ZALO** 📞 0353265927
 
 ---
@@ -38,10 +40,17 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icBCrypt
+  <img src="https://skillicons.dev/icons?i=java,spring,python,dotnet,c,cpp,cs,linux,arduino,git,github" />
+</p>
+
+
+### Currently learning
+- Java Web (Servlet, JSP, EL and JSTL, Session)
+- Java Persistence API (JPA) - BCrypt
 - Spring Boot
 - SQL Server
 - Git & GitHub
+
 
 ## 🚀 Featured Projects
 - 🔹 **Student Management System** – Java OOP, JDBC  
