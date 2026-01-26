@@ -35,7 +35,7 @@
 
 ## 🛠 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,git,github,java,c,spring,dotnet,linux" />
+  <img src="https://skillicons.dev/icons?i=HTML,CSS,JS,BOOTSRTAP,JAVA,PYTHON,MICROSOFT.NET,REACT,GIT,GITHUB,JAVA,C,C++,C#,SPRING,DOTNET,LINUX,ARDUINO" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 
 ## 🚀 Featured Projects
 - 🔹 **Student Management System** – Java OOP, JDBC  
-- 🔹 **Personal Portfolio Website** – HTML, CSS, JavaScript  
+- 🔹 **PerJAVA 
 - 🔹 **Mini Web App** – React basic  
 
 👉 *More projects are available in my repositories.*
