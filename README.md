@@ -37,7 +37,7 @@
 ---
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,bootstrap,react,java,sql,mysql" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,python,dotnet,c,cpp,cs,linux,arduino,git,github" />
