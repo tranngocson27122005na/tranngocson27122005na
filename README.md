@@ -1,5 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Trần Ngọc Sơn</h1>
-<h3 align="center">Software Engineering Student | FPT University 🇻🇳</h3>
+<h3 align="center">Software Engineering Student | FPT University HANOI VN</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
@@ -8,13 +8,14 @@
 ---
 
 ## 👨‍🎓 About Me
-- 🎓 Software Engineering student at **FPT University**
+- 🎓 Software Engineering student at **FPT University HA NOI**
 - 💻 Interested in **Web Development & Software Engineering**
 - 🌱 Currently learning **Java, Web, Data Structures**
 - 🎯 Career goal: **Intern / Fresher Software Developer**
-- 📍 Viet Nam
+- 📍Ha Noi, Viet Nam
 
 📫 **Email:** tranngocson27122005na@gmail.com
+📞**HotLine:** Trần Ngọc Sơn - Nghệ An **ZALO** 📞 0353265927
 
 ---
 
@@ -37,22 +38,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,dotnet,c,cpp,cs,linux,arduino,git,github" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tranngocson27122005na&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranngocson27122005na&layout=compact&theme=radical" height="165"/>
-</p>
-
----
+  <img src="https://skillicons.dev/icBCrypt
+- Spring Boot
+- SQL Server
+- Git & GitHub
 
 ## 🚀 Featured Projects
 - 🔹 **Student Management System** – Java OOP, JDBC  
-- 🔹 **PerJAVA 
+- 🔹 **PerJAVA** 
 - 🔹 **Mini Web App** – React basic  
 
 👉 *More projects are available in my repositories.*
