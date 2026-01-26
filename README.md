@@ -53,7 +53,8 @@
 
 
 ## 🚀 Featured Projects
-- 🔹 **Student Management System** – Java OOP, JDBC  
+- 🔹 **Student Management System** – Java OOP, JDBC
+- 🔹 **Fruits Management System** – Java OOP, JDBC  
 - 🔹 **PerJAVA** 
 - 🔹 **Mini Web App** – React basic  
 
