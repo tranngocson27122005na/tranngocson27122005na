@@ -26,7 +26,7 @@
   <a href="https://www.facebook.com/tranngocson271205" target="_blank">
     <img src="https://img.icons8.com/color/48/facebook-new.png"/>
   </a>
-  <a href="https://www.tiktok.com/@tns271205" target="_blank">
+  <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-ng%E1%BB%8Dc-s%C6%A1n-372b213a8/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
    <a href="https://www.instagram.com/tns.27122005/" target="_blank">
