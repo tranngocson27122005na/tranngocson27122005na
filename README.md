@@ -10,7 +10,7 @@
 ## 👨‍🎓 About Me
 - 🎓 Software Engineering student at **FPT University Ha Noi**
 - 💻 Interested in **Web Development & Software Engineering**
-- 🌱 Currently learning **Java, Web, Data Structures**
+- 🌱 Currently learning **Java, Web, Data Structures Algorithm**
 - 🎯 Career goal: **Intern / Fresher Software Developer**
 - 📍Ha Noi, Viet Nam
 
