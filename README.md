@@ -145,13 +145,21 @@
     <img src="https://skillicons.dev/icons?i=linux" />
   </a>
 
+  <!-- Docker -->
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" />
+</a>
+
 </p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,html,css,javascript,bootstrap,react,java,mysql,arduino,git,github,linux" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,java,spring,python,dotnet,c,cpp,cs,react,html,css,javascript,bootstrap,linux,arduino,git,github" />
+  <img src="https://skillicons.dev/icons?i=mysql,java,spring,python,dotnet,c,cpp,cs,react,html,css,javascript,bootstrap,linux,arduino,git,github,docker src="https://skillicons.dev/icons?i=java,html,css,javascript,bootstrap,react,java,mysql,arduino,git,github,linux" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,java,spring,python,dotnet,c,cpp,cs,react,html,css,javascript,bootstrap,linux,arduino,git,github,docker" />
 </p>
 
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,sqlserver,nodejs,react,git,github,docker" />
@@ -188,6 +196,8 @@
 
 
 ## 🚀 Featured Projects
+- 🔹 **Full_Buil_Project_Classroom_Asset_Management_System** - Java OOP, JDBC, JPA, JSP, EL&JSTL, Servlet Tomcat Server, SQL Server
+- 🔹 **Project_Management_GiaoNop_BaiTap** - Java OOP, JDBC, JPA, JSP, EL&JSTL, Servlet Tomcat Server, SQL Server
 - 🔹 **Student Management System** – Java OOP, JDBC
 - 🔹 **Fruits Management System** – Java OOP, JDBC  
 - 🔹 **PerJAVA** 
