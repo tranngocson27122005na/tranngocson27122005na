@@ -154,6 +154,10 @@
   <img src="https://skillicons.dev/icons?i=mysql,java,spring,python,dotnet,c,cpp,cs,react,html,css,javascript,bootstrap,linux,arduino,git,github" />
 </p>
 
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,sqlserver,nodejs,react,git,github,docker" />
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlserver,nodejs,react" />
+
 ---
 
 ## 📊 GitHub Statistics
@@ -173,12 +177,12 @@
 - MySQL
 - JWT
 - RESTful API
-1 Java Core
-2	SQL + Spring basic
-3	Spring Boot project
-4	Security + JWT
-5	Fullstack
-6	Microservices
+  1.Java Core
+  2.SQL + Spring basic
+  3.Spring Boot project
+  4.Security + JWT
+  5.Fullstack
+  6.Microservices
 - SQL Server
 - Git & GitHub
 
