@@ -80,6 +80,21 @@
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
 
+  <!-- SQL Server -->
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sqlserver" />
+</a>
+
+<!-- NodeJS -->
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+
+<!-- ReactJS -->
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" />
+</a>
+
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" />
@@ -153,6 +168,17 @@
 - Java Web (Servlet, JSP, EL and JSTL, Session, Cookie, Cloud)
 - JPAPI (Java Persistence API) - BCrypt
 - Spring Boot
+- Spring Security
+- Hibernate (JPA)
+- MySQL
+- JWT
+- RESTful API
+1 Java Core
+2	SQL + Spring basic
+3	Spring Boot project
+4	Security + JWT
+5	Fullstack
+6	Microservices
 - SQL Server
 - Git & GitHub
 
