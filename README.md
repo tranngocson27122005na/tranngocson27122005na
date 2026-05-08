@@ -10,12 +10,12 @@
 ## 👨‍🎓 About Me
 - 🎓 Software Engineering student at **FPT University Ha Noi**
 - 💻 Interested in **Web Development & Software Engineering**
-- 🌱 Currently learning **Java, Web, Data Structures Algorithm**
+- 🌱 Currently learning **Java|Spring Boot, FULLSTACK Web, Data Structures Algorithm**
 - 🎯 Career goal: **Intern / Fresher Software Developer**
 - 📍Ha Noi, Viet Nam
 
 📫 **Email:** tranngocson27122005na@gmail.com
-
+- Trên thông IT | dưới tường Showbiz | Happy Code | Lửa trong tim |
 
 📞**HotLine:** Trần Ngọc Sơn - Nghệ An **Zalo** 📞 0353265927
 
@@ -196,7 +196,9 @@
 
 
 ## 🚀 Featured Projects
-- 🔹 **Full_Buil_Project_Classroom_Asset_Management_System** - Java OOP, JDBC, JPA, JSP, EL&JSTL, Servlet Tomcat Server, SQL Server
+- 🔹 **Full Buil Project Classroom Asset Management System** - Java OOP, JDBC, JPA, JSP, EL&JSTL, Servlet Tomcat Server, SQL Server
+- Dự án Website : Shop TnS Bán Hoa Tết Online.
+- 🔗https://websitehoatettranngocson.rf.gd/
 - 🔹 **Project_Management_GiaoNop_BaiTap** - Java OOP, JDBC, JPA, JSP, EL&JSTL, Servlet Tomcat Server, SQL Server
 - 🔹 **Student Management System** – Java OOP, JDBC
 - 🔹 **Fruits Management System** – Java OOP, JDBC  
