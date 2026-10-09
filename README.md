@@ -196,9 +196,11 @@
 
 
 ## 🚀 Featured Projects
+- 🔹 **Full Buil Project TnS JLPTLearn JPD**
+- 🔗https://tns-jlptlearnjpd.vercel.app/
 - 🔹 **Full Buil Project Classroom Asset Management System** - Java OOP, JDBC, JPA, JSP, EL&JSTL, Servlet Tomcat Server, SQL Server
 - Dự án Website : Shop TnS Bán Hoa Tết Online.
-- 🔗https://websitehoatettranngocson.rf.gd/
+- 🔗https://tns-jlptlearnjpd.vercel.app/
 - 🔹 **Project_Management_GiaoNop_BaiTap** - Java OOP, JDBC, JPA, JSP, EL&JSTL, Servlet Tomcat Server, SQL Server
 - 🔹 **Student Management System** – Java OOP, JDBC
 - 🔹 **Fruits Management System** – Java OOP, JDBC  
